@@ -1,5 +1,5 @@
 # datadance
-hope you hive a nice day
+hope you have a nice day
 
 致力于通过AI赋能，实现自然语言到数据分析的直接转化，打破技术门槛，让每一位用户都能通过日常语言，高效获取数据洞察。
 
